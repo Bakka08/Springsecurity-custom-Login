@@ -1,2 +1,2 @@
-# preview 
+# Preview 
 ![alt text](./Animation.gif)
